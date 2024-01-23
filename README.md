@@ -1,2 +1,6 @@
 # BBS
-BBS - Tech Lead Formation
+BBS - Tech Lead Formation repository
+
+In Progress...
+
+
