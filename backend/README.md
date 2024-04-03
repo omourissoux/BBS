@@ -9,5 +9,12 @@ npx hardhat help
 npx hardhat test
 REPORT_GAS=true npx hardhat test
 npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.ts
+npx hardhat ignition deploy ./ignition/modules/GinkgoFactory.ts
+```
+
+For playing with smart contracts locally, edit the ./scripts/playground.ts and run the followings :
+
+```shell
+npx hardhat ignition deploy ./ignition/modules/GinkgoFactory.ts
+npx ts-node ./scripts/playground.ts
 ```
