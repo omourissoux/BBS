@@ -1,4 +1,4 @@
-#UNDER CONSTRUCTION
+# UNDER CONSTRUCTION
 ## Ginkgo is a web3 project. It provides local currency solutions
 
 Front part is under construction and not accessible for now.
